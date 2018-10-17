@@ -1,2 +1,3 @@
 # hello-world
-First repo
+
+Hello Earthly humans! Just your friend Justin here. I greatly enjoy taco Tuesday.
